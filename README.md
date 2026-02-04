@@ -16,7 +16,11 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2 style="color: #00f2ff;">>_ ACCESSING_PROFILE...</h2>
+      <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=%3E_+ACCESSING_PROFILE...;%3E_+LOADING_USER_DATA...;%3E_+WELCOME_TO_MY_HUB." alt="Typing SVG" />
+  </a>
+</div>
       <p>
         Olá. Eu sou um desenvolvedor focado em <strong>Lógica</strong> e <strong>Experiência do Usuário</strong>. Construo interfaces que parecem vir do futuro.
       </p>
@@ -68,8 +72,8 @@
 
 <h2 align="center" style="letter-spacing: 4px;">📊 SYSTEM_METRICS</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=ff0055&text_color=ffffff" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=ffffff" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhowpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=ff0055&text_color=ffffff" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=ffffff" height="170">
 </div>
 
 <div align="center">
