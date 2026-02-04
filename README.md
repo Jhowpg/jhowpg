@@ -73,6 +73,7 @@
 <h2 align="center" style="letter-spacing: 4px;">📊 SYSTEM_METRICS</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhowpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=ff0055&text_color=ffffff" height="170">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=ffffff" height="170">
 </div>
 
