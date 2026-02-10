@@ -1,5 +1,28 @@
-# 💫 About Me:
-Olá! Eu sou Jhonata Santos 👋<br><br>Sou um desenvolvedor em formação, cursando Tecnologia da Informação, apaixonado por transformar lógica em soluções práticas. <br>Atualmente, estou focado em me tornar um Desenvolvedor Full Stack aprofundando meus conhecimentos em JavaScript, Java, Angular e Spring Framework.<br>Gosto de desafios que envolvem raciocínio lógico e estruturação de código limpo. <br>Recentemente, desenvolvi simuladores bancários aplicando conceitos de Herança e Polimorfismo, além de resolver desafios de algoritmos em plataformas como a DIO.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2>💫 About Me:</h2>
+      <p><strong>Olá! Eu sou Jhonata Santos 👋</strong></p>
+      <p>
+        Sou um desenvolvedor em formação, cursando Tecnologia da Informação, apaixonado por transformar lógica em soluções práticas.
+      </p>
+      <p>
+        Atualmente, estou focado em me tornar um Desenvolvedor Full Stack aprofundando meus conhecimentos em <strong>JavaScript, Java, Angular e Spring Framework</strong>.
+      </p>
+      <p>
+        Gosto de desafios que envolvem raciocínio lógico e estruturação de código limpo.
+      </p>
+      <p>
+        Recentemente, desenvolvi simuladores bancários aplicando conceitos de Herança e Polimorfismo, além de resolver desafios de algoritmos em plataformas como a DIO.
+      </p>
+    </td>
+    <td width="35%" valign="top">
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/70271edd-cb4f-4e61-a196-98e451d0664b" width="100%" alt="Jhonata Santos Avatar">
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
